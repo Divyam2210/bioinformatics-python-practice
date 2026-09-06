@@ -1,4 +1,4 @@
-valid_nucleotide = set('ATCNG')
+valid_nucleotide = set('ATCG')
 
 
 def validate_sequence(seq, header):
